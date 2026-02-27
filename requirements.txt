@@ -1,0 +1,6 @@
+langchain 
+langchain-ollama 
+PyQt6 
+chromadb
+sentence-transformers
+rich

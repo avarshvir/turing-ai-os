@@ -1,0 +1,15 @@
+{
+    "model": {
+        "active_llm": "qwen2.5:1.5b",
+        "temperature": 0.3,
+        "max_ram_usage_gb": 2.0
+    },
+    "memory": {
+        "enabled": true,
+        "vector_db_path": "./memory/chroma_db"
+    },
+    "ui": {
+        "theme": "light",
+        "blur_opacity": 0.85
+    }
+}
